@@ -2,7 +2,6 @@ This project is being built to help people grow plants.
 
 Frontend for the website: http://www.soiltosprout.com
 
--
 ...
 -
 
