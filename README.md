@@ -1,3 +1,11 @@
+This project is being built to help people grow plants.
+
+Frontend for the website: http://www.soiltosprout.com
+
+-
+...
+-
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
